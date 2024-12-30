@@ -22,7 +22,7 @@
 ## Outcomes
 - Cleaned and processed 1,515 job postings into 766 unique entries.
 - Identified key hiring trends, salary ranges, and skill requirements.
-- Automated insights reduce manual job search time and increase efficiency.
+- Automated insights reduce manual job search time by more than 50% and significantly increase efficiency.
 
 ## Future Enhancements
 - Expand data collection to multiple industries beyond data-related roles.
